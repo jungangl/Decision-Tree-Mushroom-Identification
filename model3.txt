@@ -1,0 +1,16 @@
+odor-foul = 0 :
+| gill-size-broad = 0 :
+| | odor-none = 0 :
+| | | gill-spacing-close = 0 :
+| | | | bruises?-bruises = 0 : 1
+| | | | bruises?-bruises = 1 : 0
+| | | gill-spacing-close = 1 : 1
+| | odor-none = 1 :
+| | | stalk-surface-above-ring-silky = 0 :
+| | | | bruises?-bruises = 0 : 0
+| | | | bruises?-bruises = 1 : 1
+| | | stalk-surface-above-ring-silky = 1 : 1
+| gill-size-broad = 1 :
+| | spore-print-color-green = 0 : 0
+| | spore-print-color-green = 1 : 1
+odor-foul = 1 : 1
